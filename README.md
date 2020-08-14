@@ -1,5 +1,5 @@
 # ImpactNegativeTriples
-Source code of the CIKM'20 paper: The Impact of Negative Triple Generation Strategies and Anomalies on Knowledge Graph Completion (TODO: Add DOI).
+Source code of the CIKM'20 paper: The Impact of Negative Triple Generation Strategies and Anomalies on Knowledge Graph Completion (https://doi.org/10.1145/3340531.3412023).
 
 A significant part of the code was borrowed from OpenKE (https://github.com/thunlp/OpenKE/). We have refactored several methods and included several strategies for generating negative triples.
 
